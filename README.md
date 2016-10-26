@@ -22,6 +22,16 @@ killport(8080)
 
 ```
 
+Use as a command
+
+```sh
+$ npm install killport -g
+```
+
+```sh
+$ killport 8080
+```
+
 Support
 ------
 
