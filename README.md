@@ -29,7 +29,7 @@ $ npm install killport -g
 ```
 
 ```sh
-$ killport 8080
+$ killport 8080[,port]
 ```
 
 Support
